@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/sonarwave.png" width="auto" height="auto"/>
+  <img src="/assets/sonarwave.png" width="auto" height="auto"/>
 </p>
 
 # Welcome to the SonarWave organization
@@ -9,4 +9,3 @@ with inbuilt realtime streaming capabilities.
 ## Built With
 - [_.NET_](https://dotnet.microsoft.com/en-us/)
 - [_Flutter_](https://flutter.dev/)
-
